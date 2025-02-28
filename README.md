@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **singhvineetvedant@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1YJ9b8-PrTOpqdSJeYkgXYjhF03wjPN0I/view?usp=sharing](https://drive.google.com/file/d/1YJ9b8-PrTOpqdSJeYkgXYjhF03wjPN0I/view?usp=sharing](https://docs.google.com/document/d/1IgHXJviV3ehWzSURXS9ssIxV3GN3-OGW/edit?usp=sharing&ouid=108030960770472485057&rtpof=true&sd=true)](https://drive.google.com/file/d/1YJ9b8-PrTOpqdSJeYkgXYjhF03wjPN0I/view?usp=sharing](https://drive.google.com/file/d/1YJ9b8-PrTOpqdSJeYkgXYjhF03wjPN0I/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/17TEKVFvASrdFBRK4jL_3S_d77SeyXLNf/view?usp=sharing)
 
 - ⚡ Fun fact **I AM A GREAT LERNER**
 
