@@ -2,7 +2,7 @@
 [![MasterHead](https://media3.giphy.com/headers/levberry/wWIVadS9YYBK.gif)](https://media3.giphy.com/headers/levberry/wWIVadS9YYBK.gif)
 
 <h1 align="center">Hi 👋, I'm VEDANT SINGH</h1>
-<h3 align="center">A passionate frontend developer from India. Computer Science Engineer with expertise in Python, data , Artificial Neural Network (ANN) ,Convolutional Neural Network (CNN) and software development. Experienced in internships, technical projects, and holds certifications. Proficient in SQL, C++, and thermal imaging object detection. Aspires to contribute to technology and defense sectors .</h3>
+<h3 align="center">A passionate developer from India, holding a degree in Computer Science Engineering with expertise in Python, data analysis, Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), and software development. Experienced in internships and technical projects, and certified in relevant fields. Proficient in SQL, C++, and thermal imaging object detection. Aspires to contribute to advancements in technology and the defense sector.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
