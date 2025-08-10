@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **singhvineetvedant@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/17TEKVFvASrdFBRK4jL_3S_d77SeyXLNf/view?usp=sharing)
+- 📄 Know about my experiences (https://my-portfolio-brown-three-g3px05pp8i.vercel.app/)
 
 - ⚡ Fun fact **I AM A GREAT LERNER**
 
